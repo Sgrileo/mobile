@@ -42,4 +42,4 @@ cd进入当前项目，在cmd命令中使用`npm init`，根据提示步骤一�
 4. `git status`查看缓冲区的即将被上传的文件
 5. （\*）`git reset`如果发现`git add`操作添加有误，可以使用此命令回退
 6. `git commit -m "this is my first mobile project"`提交代码至本地并且必须书写注释
-7. `git push`提交代码至远程代码仓库
+7. `git push`提交代码至远程代码仓库.
